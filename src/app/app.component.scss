@@ -1,0 +1,16 @@
+@import "node_modules/modern-normalize/modern-normalize.css";
+
+.wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+  .breed-select {
+    max-width: 35%;
+  }
+  .loader {
+  }
+  .error {
+  }
+  .cat-info {
+  }
+}
